@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+ <!--    <category label="32000">
+        <setting label="32015" type="text" id="username" default=""/>
+        <setting label="32016" type="text" id="password" option="hidden" enable="!eq(-1,)" default=""/>
+    </category> -->
+    <category label="32001">
+        <setting label="32020" type="text" id="general_url" default="https://yts.ag/api/v2/list_movies.json?query_term=QUERY"/>
+        <setting label="32021" type="text" id="separator" default="+"/>
+        <setting label="32022" type="lsep"/>
+        <setting label="32023" type="text" id="general_query1" default="{title}"/>
+        <setting label="32024" type="text" id="general_query2" default=""/>
+        <setting label="32025" type="text" id="general_query3" default=""/>
+        <setting label="32026" type="text" id="general_query4" default=""/>
+        <setting label="32027" type="text" id="general_query5" default=""/>
+        <setting label="32028" type="lsep"/>
+        <setting label="32029" type="bool" id="general_title" default="true"/>
+        <setting label="32030" type="text" id="general_accept" default="{HDTV}{720p}{1080p}{4k}{2160p}"
+        />
+        <setting label="32031" type="text" id="general_block" default="{3D}{CAM}{TeleSync}{?TS?}{Trailer}"/>
+        <setting label="32032" type="lsep"/>
+        <setting label="32033" type="slider" id="general_min_size" default="0" range="0,0.25,10"
+                 option="float"/>
+        <setting label="32034" type="slider" id="general_max_size" default="10" range="0,0.25,10"
+                 option="float"/>
+    </category>
+    <category label="32002">
+        <setting label="32020" type="text" id="movie_url" default="https://yts.ag/api/v2/list_movies.json?query_term=QUERY"/>
+        <setting label="32021" type="text" id="separator" default="+"/>
+        <setting label="32022" type="lsep"/>
+        <setting label="32023" type="text" id="movie_query1" default="{title}"/>
+        <setting label="32024" type="text" id="movie_query2" default=""/>
+        <setting label="32025" type="text" id="movie_query3" default=""/>
+        <setting label="32026" type="text" id="movie_query4" default=""/>
+        <setting label="32027" type="text" id="movie_query5" default=""/>
+        <setting label="32028" type="lsep"/>
+        <setting label="32029" type="bool" id="movie_title" default="true"/>
+        <setting label="32030" type="text" id="movie_accept" default="{HDTV}{720p}{1080p}{4k}{2160p}"
+        />
+        <setting label="32031" type="text" id="movie_block" default="{3D}{CAM}{TeleSync}{?TS?}{Trailer}"/>
+        <setting label="32032" type="lsep"/>
+        <setting label="32033" type="slider" id="movie_min_size" default="0" range="0,0.25,10" option="float"/>
+        <setting label="32034" type="slider" id="movie_max_size" default="10" range="0,0.25,10" option="float"/>
+    </category>
+    <category label="32006">
+        <setting label="32040" type="slider" id="max_magnets" default="10" range="0,1,20" option="int"/>
+		<setting label="32041" type="bool" id="use_cloudhole" default="false"/>
+    </category>
+</settings>

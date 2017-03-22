@@ -1,0 +1,344 @@
+﻿# Kodi Media Center language file
+# Addon Name: provider
+# Addon id: script.module.magnetic, provider
+# Addon Provider: mancuniancol
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-05 05:53-0400\n"
+"PO-Revision-Date: 2016-11-10 22:29+0100\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setting.xml
+msgctxt "#32000"
+msgid "Login"
+msgstr "Login"
+
+#: settings.xml
+msgctxt "#32001"
+msgid "General"
+msgstr "Allgemein"
+
+#: settings.xml
+msgctxt "#32002"
+msgid "Movies"
+msgstr "Filme"
+
+#: settings.xml
+msgctxt "#32003"
+msgid "TV Shows"
+msgstr "TV-Serien"
+
+#: settings.xml
+msgctxt "#32004"
+msgid "Anime"
+msgstr "Anime"
+
+#: settings.xml
+msgctxt "#32005"
+msgid "Seasons"
+msgstr "Staffeln"
+
+#: settings.xml
+msgctxt "#32006"
+msgid "Download"
+msgstr "Herunterladen"
+
+#: settings.xml
+msgctxt "#32007"
+msgid "HTML parsing"
+msgstr "HTML-Parser"
+
+#: setting.xml
+msgctxt "#32010"
+msgid "[COLOR FFffd800]Magnetizer...[/COLOR]"
+msgstr "[COLOR FFffd800]Magnetisierer...[/COLOR]"
+
+#: setting.xml
+msgctxt "#32015"
+msgid "Username:"
+msgstr "Benutzername:"
+
+#: setting.xml
+msgctxt "#32016"
+msgid "Password:"
+msgstr "Passwort:"
+
+#: setting.xml
+msgctxt "#32020"
+msgid "URL address (ex:http://www.example.com):"
+msgstr "URL-Adresse (zB: http: //www.example.com):"
+
+#: settings.xml
+msgctxt "#32021"
+msgid "Separator between words"
+msgstr "Trennsymbol zwischen Wörtern"
+
+#: settings.xml
+msgctxt "#32022"
+msgid "Query Formats"
+msgstr "Abfrage Formate"
+
+#: settings.xml
+msgctxt "#32023"
+msgid "Query 1:"
+msgstr "Abfrage 1:"
+
+#: settings.xml
+msgctxt "#32024"
+msgid "Query 2:"
+msgstr "Abfrage 2:"
+
+#: settings.xml
+msgctxt "#32025"
+msgid "Query 3:"
+msgstr "Abfrage 3:"
+
+#: settings.xml
+msgctxt "#32026"
+msgid "Query 4:"
+msgstr "Abfrage 4:"
+
+#: settings.xml
+msgctxt "#32027"
+msgid "Query 5:"
+msgstr "Abfrage 5:"
+
+#: settings.xml
+msgctxt "#32028"
+msgid "Keyword Filtering Files"
+msgstr "Schlagwort Filtern der Dateien"
+
+#: settings.xml
+msgctxt "#32029"
+msgid "Filter by Title:"
+msgstr "Nach Titel filtern:"
+
+#: settings.xml
+msgctxt "#32030"
+msgid "Only Accept with:"
+msgstr "Nur akzeptieren mit:"
+
+#: settings.xml
+msgctxt "#32031"
+msgid "Block with:"
+msgstr "Blockiere Dateien mit:"
+
+#: settings.xml
+msgctxt "#32032"
+msgid "Limitation Size"
+msgstr "Größen Begrenzung"
+
+#: settings.xml
+msgctxt "#32033"
+msgid "Minimum size:"
+msgstr "Minimale Größe:"
+
+#: settings.xml
+msgctxt "#32034"
+msgid "Maximum size:"
+msgstr "Maximale Größe:"
+
+#: settings.xml
+msgctxt "#32040"
+msgid "Maximum torrents:"
+msgstr "Maximale Anzahl an Torrents:"
+
+#: settings.xml
+msgctxt "#32041"
+msgid "Use CloudHole:"
+msgstr "verwenden Sie CloudHole:"
+
+#: settings.xml
+msgctxt "#32050"
+msgid "Open subpage to get magnet information:"
+msgstr "Unterseite öffnen für Magnet-Information:"
+
+#: settings.xml
+msgctxt "#32051"
+msgid "Rows="
+msgstr "Reihen="
+
+#: settings.xml
+msgctxt "#32052"
+msgid "Name="
+msgstr "Name="
+
+#: settings.xml
+msgctxt "#32053"
+msgid "Info Hash="
+msgstr "Info Hash="
+
+#: settings.xml
+msgctxt "#32054"
+msgid "Magnet="
+msgstr "Magnet="
+
+#: settings.xml
+msgctxt "#32055"
+msgid "Size="
+msgstr "Größe="
+
+#: settings.xml
+msgctxt "#32056"
+msgid "Seeds="
+msgstr "Seeds="
+
+#: settings.xml
+msgctxt "#32057"
+msgid "Peers="
+msgstr "Peers="
+
+#: settings.xml
+msgctxt "#32060"
+msgid "No providers installed"
+msgstr "Keine Provider installiert"
+
+#: settings.xml
+msgctxt "#32061"
+msgid "Starting..."
+msgstr "Starte…"
+
+#: settings.xml
+msgctxt "#32062"
+msgid "%s Providers Left"
+msgstr "%s Providers übrig"
+
+#: settings.xml
+msgctxt "#32063"
+msgid "1 Provider Left"
+msgstr "1 Provider übrig"
+
+#: settings.xml
+msgctxt "#32064"
+msgid " working slow"
+msgstr " Arbeite langsam"
+
+#: settings.xml
+msgctxt "#32065"
+msgid "Copying from cache"
+msgstr "Kopiere vom Cache"
+
+#: settings.xml
+msgctxt "#32070"
+msgid "Search Timeout Seconds:"
+msgstr "Such-Timeout in Sekunden:"
+
+#: settings.xml
+msgctxt "#32071"
+msgid "Use Cache:"
+msgstr "Cache verwenden:"
+
+#: settings.xml
+msgctxt "#32072"
+msgid "Clear Cache..."
+msgstr "Cache leeren..."
+
+#: settings.xml
+msgctxt "#32073"
+msgid "Add-on to use with Magnetizer:"
+msgstr "Add-on zu verwendendes mit Magnetisierer:"
+
+#: settings.xml
+msgctxt "#32074"
+msgid "[COLOR FFffd800]Magnetizer[/COLOR] Results for %s"
+msgstr ""[COLOR FFffd800]Magnetisierer[/COLOR]" Ergebnisse für %s"
+
+#: settings.xml
+msgctxt "#32075"
+msgid "No torrents found"
+msgstr "Keine Torrents gefunden"
+
+#: settings.xml
+msgctxt "#32080"
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: settings.xml
+msgctxt "#32081"
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: settings.xml
+msgctxt "#32082"
+msgid "Check"
+msgstr "Überprüfen"
+
+#: settings.xml
+msgctxt "#32083"
+msgid "Check All Individually"
+msgstr "Alle einzeln überprüfen"
+
+#: settings.xml
+msgctxt "#32084"
+msgid "Check All as Group"
+msgstr "Alle als Gruppe überprüfen"
+
+#: settings.xml
+msgctxt "#32085"
+msgid "Enable All"
+msgstr "Alle aktivieren"
+
+#: settings.xml
+msgctxt "#32086"
+msgid "Disable All"
+msgstr "Alle deaktivieren"
+
+#: settings.xml
+msgctxt "#32087"
+msgid "Copy Settings To..."
+msgstr "Kopiere Einstellungen von…"
+
+#: settings.xml
+msgctxt "#32088"
+msgid "Apply default values"
+msgstr "Standardwerte verwenden"
+
+#: settings.xml
+msgctxt "#32089"
+msgid "Add-on Settings"
+msgstr "Add-On Einstellungen"
+
+#: settings.xml
+msgctxt "#32090"
+msgid "ENABLED"
+msgstr "AKTIVIERT"
+
+#: settings.xml
+msgctxt "#32091"
+msgid "DISABLED"
+msgstr "DEAKTIVIERT"
+
+#: settings.xml
+msgctxt "#32123"
+msgid "Extra 1:"
+msgstr "Extra 1:"
+
+#: settings.xml
+msgctxt "#32124"
+msgid "Extra 2:"
+msgstr "Extra 2:"
+
+#: settings.xml
+msgctxt "#32125"
+msgid "Extra 3:"
+msgstr "Extra 3:"
+
+#: settings.xml
+msgctxt "#32126"
+msgid "Extra 4:"
+msgstr "Extra 4:"
+
+#: settings.xml
+msgctxt "#32127"
+msgid "Extra 5:"
+msgstr "Extra 5:"

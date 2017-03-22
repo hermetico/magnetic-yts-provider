@@ -1,0 +1,342 @@
+# Addon Name: provider
+# Addon id: script.module.magnetic, provider
+# Addon Provider: mancuniancol
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magnetic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-05 05:53-0400\n"
+"PO-Revision-Date: 2016-12-04 06:43-0500\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: ShlomiD\n"
+"Language-Team: ShlomiD\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setting.xml
+msgctxt "#32000"
+msgid "Login"
+msgstr "התחברות"
+
+#: settings.xml
+msgctxt "#32001"
+msgid "General"
+msgstr "כללי"
+
+#: settings.xml
+msgctxt "#32002"
+msgid "Movies"
+msgstr "סרטים"
+
+#: settings.xml
+msgctxt "#32003"
+msgid "TV Shows"
+msgstr "סדרות"
+
+#: settings.xml
+msgctxt "#32004"
+msgid "Anime"
+msgstr "אנימה"
+
+#: settings.xml
+msgctxt "#32005"
+msgid "Seasons"
+msgstr "עונות"
+
+#: settings.xml
+msgctxt "#32006"
+msgid "Download"
+msgstr "הורדה"
+
+#: settings.xml
+msgctxt "#32007"
+msgid "HTML parsing"
+msgstr "ניתוח HTML"
+
+#: setting.xml
+msgctxt "#32010"
+msgid "[COLOR FFffd800]Magnetizer...[/COLOR]"
+msgstr "[COLOR FFffd800]ממגנט...[/COLOR]"
+
+#: setting.xml
+msgctxt "#32015"
+msgid "Username:"
+msgstr "שם משתמש:"
+
+#: setting.xml
+msgctxt "#32016"
+msgid "Password:"
+msgstr "סיסמה:"
+
+#: setting.xml
+msgctxt "#32020"
+msgid "URL address (ex:http://www.example.com):"
+msgstr "כתובת אינטרנט (דוגמה:http://www.example.com):"
+
+#: settings.xml
+msgctxt "#32021"
+msgid "Separator between words"
+msgstr "מפריד בין מילים"
+
+#: settings.xml
+msgctxt "#32022"
+msgid "Query Formats"
+msgstr "תבניות שאילתא"
+
+#: settings.xml
+msgctxt "#32023"
+msgid "Query 1:"
+msgstr "שאילתא 1:"
+
+#: settings.xml
+msgctxt "#32024"
+msgid "Query 2:"
+msgstr "שאילתא 2:"
+
+#: settings.xml
+msgctxt "#32025"
+msgid "Query 3:"
+msgstr "שאילתא 3:"
+
+#: settings.xml
+msgctxt "#32026"
+msgid "Query 4:"
+msgstr "שאילתא 4:"
+
+#: settings.xml
+msgctxt "#32027"
+msgid "Query 5:"
+msgstr "שאילתא 5:"
+
+#: settings.xml
+msgctxt "#32028"
+msgid "Keyword Filtering Files"
+msgstr "מילות מפתח לסינון קבצים:"
+
+#: settings.xml
+msgctxt "#32029"
+msgid "Filter by Title:"
+msgstr "סנן לפי כותרת:"
+
+#: settings.xml
+msgctxt "#32030"
+msgid "Only Accept with:"
+msgstr "קבל רק עם:"
+
+#: settings.xml
+msgctxt "#32031"
+msgid "Block with:"
+msgstr "חסום עם:"
+
+#: settings.xml
+msgctxt "#32032"
+msgid "Limitation Size"
+msgstr "הגבלות גודל"
+
+#: settings.xml
+msgctxt "#32033"
+msgid "Minimum size:"
+msgstr "גודל מינימלי"
+
+#: settings.xml
+msgctxt "#32034"
+msgid "Maximum size:"
+msgstr "גודל מקסימלי"
+
+#: settings.xml
+msgctxt "#32040"
+msgid "Maximum torrents:"
+msgstr "כמות מרבית של טורנטים"
+
+#: settings.xml
+msgctxt "#32041"
+msgid "Use CloudHole:"
+msgstr "להשתמש CloudHole:"
+
+#: settings.xml
+msgctxt "#32050"
+msgid "Open subpage to get magnet information:"
+msgstr "פתח תת עמוד על מנת לקבל מידע מגנט:"
+
+#: settings.xml
+msgctxt "#32051"
+msgid "Rows="
+msgstr "שורות="
+
+#: settings.xml
+msgctxt "#32052"
+msgid "Name="
+msgstr "שם="
+
+#: settings.xml
+msgctxt "#32053"
+msgid "Info Hash="
+msgstr "מידע Hash="
+
+#: settings.xml
+msgctxt "#32054"
+msgid "Magnet="
+msgstr "מגנט="
+
+#: settings.xml
+msgctxt "#32055"
+msgid "Size="
+msgstr "גודל="
+
+#: settings.xml
+msgctxt "#32056"
+msgid "Seeds="
+msgstr "זורעים="
+
+#: settings.xml
+msgctxt "#32057"
+msgid "Peers="
+msgstr "יונקים="
+
+#: settings.xml
+msgctxt "#32060"
+msgid "No providers installed"
+msgstr "אין ספקים מותקנים"
+
+#: settings.xml
+msgctxt "#32061"
+msgid "Starting..."
+msgstr "מתחיל..."
+
+#: settings.xml
+msgctxt "#32062"
+msgid "%s Providers Left"
+msgstr "%s ספקים נותרו"
+
+#: settings.xml
+msgctxt "#32063"
+msgid "1 Provider Left"
+msgstr "ספק אחד נותר"
+
+#: settings.xml
+msgctxt "#32064"
+msgid " working slow"
+msgstr "עובד לאט "
+
+#: settings.xml
+msgctxt "#32065"
+msgid "Copying from cache"
+msgstr "מעתיק ממטמון"
+
+#: settings.xml
+msgctxt "#32070"
+msgid "Search Timeout Seconds:"
+msgstr " Timeout חיפוש בשניות"
+
+#: settings.xml
+msgctxt "#32071"
+msgid "Use Cache:"
+msgstr ":השתמש במטמון"
+
+#: settings.xml
+msgctxt "#32072"
+msgid "Clear Cache..."
+msgstr "...ניקוי מטמון"
+
+#: settings.xml
+msgctxt "#32073"
+msgid "Add-on to use with Magnetizer:"
+msgstr ":הרחבה לשימוש עם ממגנט"
+
+#: settings.xml
+msgctxt "#32074"
+msgid "[COLOR FFffd800]Magnetizer[/COLOR] Results for %s"
+msgstr "[צבע FFffd800] ממגנט [/COLOR] תוצאות עבור %s"
+
+#: settings.xml
+msgctxt "#32075"
+msgid "No torrents found"
+msgstr "לא נמצאו קישורים"
+
+#: settings.xml
+msgctxt "#32080"
+msgid "Enable"
+msgstr "הפעל"
+
+#: settings.xml
+msgctxt "#32081"
+msgid "Disable"
+msgstr "נטרל"
+
+#: settings.xml
+msgctxt "#32082"
+msgid "Check"
+msgstr "בדוק"
+
+#: settings.xml
+msgctxt "#32083"
+msgid "Check All Individually"
+msgstr "בדוק כולם בנפרד"
+
+#: settings.xml
+msgctxt "#32084"
+msgid "Check All as Group"
+msgstr "בדוק כקבוצה"
+
+#: settings.xml
+msgctxt "#32085"
+msgid "Enable All"
+msgstr "הפעל הכל"
+
+#: settings.xml
+msgctxt "#32086"
+msgid "Disable All"
+msgstr "נטרל הכל"
+
+#: settings.xml
+msgctxt "#32087"
+msgid "Copy Settings To..."
+msgstr "העתק הגדרות ל..."
+
+#: settings.xml
+msgctxt "#32088"
+msgid "Apply default values"
+msgstr "החל הגדרות ברירת מחדל"
+
+#: settings.xml
+msgctxt "#32089"
+msgid "Add-on Settings"
+msgstr "הגדרות הרחבה"
+
+#: settings.xml
+msgctxt "#32090"
+msgid "ENABLED"
+msgstr "מופעל"
+
+#: settings.xml
+msgctxt "#32091"
+msgid "DISABLED"
+msgstr "מנוטרל"
+#: settings.xml
+msgctxt "#32123"
+msgid "Extra 1:"
+msgstr "תוספת :1"
+
+#: settings.xml
+msgctxt "#32124"
+msgid "Extra 2:"
+msgstr "תוספת :2"
+
+#: settings.xml
+msgctxt "#32125"
+msgid "Extra 3:"
+msgstr "תוספת :3"
+
+#: settings.xml
+msgctxt "#32126"
+msgid "Extra 4:"
+msgstr "תוספת :4"
+
+#: settings.xml
+msgctxt "#32127"
+msgid "Extra 5:"
+msgstr "תוספת :5"
